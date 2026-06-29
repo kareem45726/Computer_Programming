@@ -23,16 +23,32 @@ Contains lab works, reports, assignments, and programs from my Electrical Engine
 - 📝 Assignments
 - 💻 C++ Programs
 
+  ---
+
+## 📂 Repository Structure
+
+- Lab 01 to Lab 14
+- CP Assignment
+- CEP Traffic Management
+
 ---
 
-## 🎯 Goal
+## 🚀 Future Goals
 
-- Learn C++ programming
-- Improve problem-solving skills
-- Maintain academic record
-- Track progress
+- Upload more C++ projects
+- Improve coding skills
+- Learn Data Structures
+- Learn Object Oriented Programming
+- 
 
 ---
+
+## 📌 Features
+
+- Organized Lab Tasks
+- C++ Programs
+- Assignments
+- PDF Reports
 
 ## 🛠 Tools
 
